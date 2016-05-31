@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Verdana;
+  color: #FFF;
+}
+
+header, footer {
+  background-color: #444;
+}
+
+nav {
+  background-color: #DDD;
+}
+
+section {
+  background-color: #999;
+}
