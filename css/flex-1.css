@@ -14,12 +14,12 @@ header {
   order: -2;
 }
 
-nav.main {
-  order: -1;
-}
-
 nav {
   flex: 0 1 8em;
+}
+
+nav.main {
+  order: -1;
 }
 
 section {
